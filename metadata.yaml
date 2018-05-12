@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9774'
     url: http://www.gutenberg.org/2009/agents/9774
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21214#The-Law-and-Lawyers-of-PickwickA-Lecture
 gutenberg_issued: '2007-04-25'
 gutenberg_type: Text
 identifiers:
